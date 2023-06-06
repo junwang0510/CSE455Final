@@ -1,8 +1,34 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+# Basic Metadata
+title: CSE 455 Final
+description: Personal Website
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://junwang0510.github.io
 
+# Aux Links
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  # TODO: Change code's path
+  "Code":
+  - "https://github.com/junwang0510/CSE455Final"
+  "Video":
+  - "https://youtu.be/sMYo5r__L48"
+aux_links_new_tab: true
+
+# Buttons and Labels
+enable_copy_code_button: true
+callouts:
+  warning:
+    color: red
+  highlight:
+    color: yellow
+  note:
+    color: purple
+  important:
+    color: blue
+  new:
+    color: green
+
+# Footer Content
+back_to_top: true
+back_to_top_text: "Back to top"
+footer_content: "Copyright &copy; 2023 Robin Wang, Jun Wang"
