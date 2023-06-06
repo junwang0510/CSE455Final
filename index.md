@@ -18,7 +18,7 @@ By: Robin Wang, Jun Wang
 
 *📧 For questions, please email: `qwang6@cs.washington.edu` and `junw3@cs.washington.edu`*
 
-<a href="/Users/junwang/Desktop/Git_Projects/CSE455Final/assets/Images/poster.png" class="btn btn-blue">Project Poster</a>
+<a href="assets/Images/Real-time Garbage Segmentation.pdf" class="btn btn-blue">Project Poster</a>
 
 <br>
 
