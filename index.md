@@ -9,7 +9,7 @@ permalink: /
 # Swift and Smart: A New Paradigm for Real-Time Garbage Segmentation
 {: .fs-9}
 
-By: Robin Wang, Jun Wang
+By: Robin Wang (qwang6), Jun Wang (junw3)
 {: .fs-6 .fw-300 }
 
 <br>
