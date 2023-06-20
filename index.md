@@ -9,16 +9,18 @@ permalink: /
 # Swift and Smart: A New Paradigm for Real-Time Garbage Segmentation
 {: .fs-9}
 
-By: Robin Wang (qwang6), Jun Wang (junw3)
+By: Jun Wang, Robin Wang
 {: .fs-6 .fw-300 }
 
 <br>
 
 *🔝 Please check the links at the top of the website for project code and video presentation.*
 
-*📧 For questions, please email: `qwang6@cs.washington.edu` and `junw3@cs.washington.edu`*
+*📧 For questions, please email: `junw3@cs.washington.edu` and `qwang6@cs.washington.edu`*
 
-<a href="assets/Images/Real-time Garbage Segmentation.pdf" class="btn btn-blue">Project Poster</a>
+<a href="assets/Swift_and_Smart.pdf" class="btn btn-purple">Paper</a>
+
+<a href="assets/Images/Real-time Garbage Segmentation.pdf" class="btn btn-blue">Poster</a>
 
 <br>
 
