@@ -18,7 +18,7 @@ By: Jun Wang, Robin Wang
 
 *📧 For questions, please email: `junw3@cs.washington.edu` and `qwang6@cs.washington.edu`*
 
-<a href="assets/Swift_and_Smart.pdf" class="btn btn-purple">Paper</a>
+<a href="assets/Images/Swift_and_Smart.pdf" class="btn btn-purple">Paper</a>
 
 <a href="assets/Images/Real-time Garbage Segmentation.pdf" class="btn btn-blue">Poster</a>
 
