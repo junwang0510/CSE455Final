@@ -6,13 +6,12 @@ theme: just-the-docs
 url: https://junwang0510.github.io
 
 # Aux Links
-aux_links:
-  # TODO: Change code's path
-  "Code":
-  - "https://github.com/junwang0510/CSE455Final/tree/main/assets/Code"
-  "Video":
-  - "https://youtu.be/sMYo5r__L48"
-aux_links_new_tab: true
+# aux_links:
+#   "Code":
+#   - "https://github.com/junwang0510/CSE455Final/tree/main/assets/Code"
+#   "Video":
+#   - "https://youtu.be/sMYo5r__L48"
+# aux_links_new_tab: true
 
 # Buttons and Labels
 enable_copy_code_button: true
@@ -31,4 +30,4 @@ callouts:
 # Footer Content
 back_to_top: true
 back_to_top_text: "Back to top"
-footer_content: "Copyright &copy; 2023 Robin Wang, Jun Wang"
+footer_content: "Copyright &copy; 2023 Jun Wang, Robin Wang"

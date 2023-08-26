@@ -14,13 +14,13 @@ By: Jun Wang, Robin Wang
 
 <br>
 
-*🔝 Please check the links at the top of the website for project code and video presentation.*
-
 *📧 For questions, please email: `junw3@cs.washington.edu` and `qwang6@cs.washington.edu`*
 
-<a href="assets/Images/Swift_and_Smart.pdf" class="btn btn-purple">Paper</a>
-
-<a href="assets/Images/Real-time Garbage Segmentation.pdf" class="btn btn-blue">Poster</a>
+<div style="display: flex; gap: 10px;">
+  <a href="assets/Images/Swift_and_Smart.pdf" class="btn btn-purple">Paper</a>
+  <a href="assets/Images/Real-time Garbage Segmentation.pdf" class="btn btn-blue">Poster</a>
+  <a href="https://github.com/junwang0510/CSE455Final/tree/main/assets/Code" class="btn btn-green">Code</a>
+</div>
 
 <br>
 
